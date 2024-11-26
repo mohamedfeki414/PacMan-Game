@@ -1,0 +1,4 @@
+repository "unity-pacman-tutorial-main@medfeki33@cloud"
+  path "/"
+    br "/main"
+    co "/main"
