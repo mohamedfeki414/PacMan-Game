@@ -24,7 +24,7 @@ Téléchargez et installez Unity (version [indique la version utilisée]).
 Clonez ce dépôt dans votre environnement local :
 bash
 Copier le code
-git clone https://github.com/username/pacman-game.git
+git clone https://github.com/mohamedfeki414/PacMan-Game.git
 Ouvrez le projet dans Unity.
 Lancez le jeu en cliquant sur le bouton Play dans Unity.
 🌟 Objectifs pédagogiques
